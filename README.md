@@ -3,7 +3,7 @@
     <h3>Status: Building... 👷🚧</h3>
  </div>
 
-## Features
+## Todo
 
 - [ ] Make getStaticProps work (https://nextjs.org/docs/basic-features/data-fetching/get-static-props)
 - [ ] Responsive layout
